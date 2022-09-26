@@ -1,0 +1,19 @@
+6 Links and Images
+
+To Create a link in HTML we can use the anchor element.
+An anchor element is defined by wrapping the text or HTML elect wanted to be a link with an “ <a> “tag
+
+An actor on its own won’t create a functional link however. The anchor element only defines something as the target for a link. The anchor needs an “a href” attribute added for desired functionality.
+
+Href (hyperlink reference) is a value referencing the destination for our link to lead to.
+
+For example
+
+<a href=“https://www.theodinproject.com/about”>click me</a>
+
+<a> tags are anchoring the link definedcby href as “https://www.theodinproject.com/about” to the text click me
+
+Link will appear on txt “click me” and will direct user to theodinprojecty home page.
+
+=======================================================
+

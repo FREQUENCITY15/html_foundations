@@ -1,0 +1,42 @@
+5. Lists
+Lesson - Lists
+
+Unordered Lists
+
+If making a list of items where order is unimportant then the list can be created by using the “ <ul> “ element. 
+
+Each item within the actual list is created using the list item element “ <li> ”
+
+Each list item in an unordered list will be shown with a bullet point
+
+Example:
+
+<ul>
+   <li>Item 1</li>
+   <li>Item 2</li>
+   <li>Item 3</li>
+</ul>
+
+Would be displayed like :
+* Item 1
+* Item 2
+* Item 3
+
+Ordered Lists
+
+As for lists where the order of items is criticical, then used the element “ <ol> “, for an ordered list. The individual list items are again created using the “ <li> “ element. Except for an ordered list they will each begin with a number
+
+Example:
+
+<ol>
+   <li>Item 1</li>
+   <li>Item 2</li>
+   <li>Item 3</li>
+</ol>
+
+Would be displayed like :
+1. Item 1
+2. Item 2
+3. Item 3
+
+
